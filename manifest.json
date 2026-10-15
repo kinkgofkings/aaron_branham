@@ -1,0 +1,17 @@
+{
+  "name": "Aaron Matthew Branham | Diesel & Powersports Tech",
+  "short_name": "Branham Tech",
+  "description": "Diesel Fleet Mechanic, Powersports Specialist & Welder in Winchester, VA",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0f19",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "aaron.jpg",
+      "sizes": "192x192 512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
